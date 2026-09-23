@@ -1,82 +1,95 @@
 # ScissorLift
-Project Overview
-This repository contains the complete 3D CAD model and assembly of a Scissor Lift Mechanism designed using SolidWorks. The project demonstrates the design, modeling, and assembly of a mechanical lifting system based on interconnected scissor arms.
 
-The scissor lift mechanism is designed to provide vertical motion by converting the linear motion of the driving mechanism into controlled upward and downward movement of the lifting platform. The project was developed as an academic and engineering design project to strengthen skills in 3D CAD modeling, mechanical design, assembly, and mechanism development.
+# Scissor Lift Mechanism Design in SolidWorks
 
-Components Included
-Scissor Arms
+## Project Overview
 
-Lifting Platform
+This repository contains the complete **3D CAD model and assembly of a Scissor Lift Mechanism** designed using **SolidWorks**.
 
-Base Frame
+The project demonstrates the design, modeling, and assembly of a mechanical lifting system based on interconnected scissor arms. The mechanism converts the motion of the driving mechanism into controlled vertical movement of the lifting platform.
 
-Connecting Pins
+This project was developed as an **academic and engineering design project** to strengthen skills in **3D CAD modeling, mechanical design, assembly, and mechanism development**.
 
-Support Brackets
+---
 
-Slider/Guide Mechanism
+## Components Included
 
-Driving Mechanism
+- **Scissor Arms**
+- **Lifting Platform**
+- **Base Frame**
+- **Connecting Pins**
+- **Support Brackets**
+- **Slider / Guide Mechanism**
+- **Driving Mechanism**
+- **Mounting Supports**
+- **Fasteners**
+- **Main Scissor Lift Assembly**
 
-Mounting Supports
+---
 
-Fasteners
+## Software Used
 
-Main Scissor Lift Assembly
+- **SolidWorks 2021**
 
-Software Used
-SolidWorks 2021
+---
 
-Skills Demonstrated
-3D CAD Modeling
+## Skills Demonstrated
 
-Mechanical Part Design
+- **3D CAD Modeling**
+- **Mechanical Part Design**
+- **Assembly Design**
+- **Mechanism Design**
+- **Motion and Mechanical Linkage Understanding**
+- **Engineering Design**
+- **SolidWorks Mates and Assembly Constraints**
 
-Assembly Design
+---
 
-Mechanism Design
+## Working Principle
 
-Motion/Mechanical Linkage Understanding
+The scissor lift operates using a set of interconnected arms arranged in an **X-shaped configuration**.
 
-Engineering Design
+When the driving mechanism moves the lower ends of the scissor arms toward or away from each other, the arms rotate around their connecting pivots. This motion causes the lifting platform to move vertically upward or downward.
 
-SolidWorks Mates and Assembly Constraints
+The mechanism provides controlled vertical motion while maintaining a compact and efficient lifting arrangement.
 
-Repository Contents
-SolidWorks Part Files (.SLDPRT)
+---
 
-SolidWorks Assembly Files (.SLDASM)
+## Project Features
 
-Project Documentation
+- Fully modeled **3D Scissor Lift Mechanism**
+- Multiple interconnected scissor stages
+- Pivot-based arm movement
+- Lifting platform and supporting structure
+- Detailed mechanical assembly
+- Designed and assembled using **SolidWorks**
+- Mechanical components modeled as individual parts
 
-Assembly/Model Images
+---
 
-Working Principle
-The scissor lift operates using a set of interconnected arms arranged in an X-shaped configuration. When the driving mechanism moves the lower ends of the arms toward or away from each other, the scissor links rotate about their connecting pivots, causing the platform to move vertically.
+## Repository Contents
 
-The mechanism allows the lifting platform to maintain a controlled vertical path while providing a compact lifting arrangement.
+The repository contains:
 
-Project Features
-Fully modeled 3D scissor lift mechanism
+- SolidWorks Part Files (`.SLDPRT`)
+- SolidWorks Assembly Files (`.SLDASM`)
+- Project Documentation
+- Assembly and Model Images
 
-Multiple interconnected scissor stages
+---
 
-Pivot-based arm movement
+## Notes
 
-Lifting platform and supporting structure
+This project represents the **final CAD model and assembly** of the Scissor Lift Mechanism.
 
-Detailed mechanical assembly
+Standard hardware such as **bolts, nuts, and washers** may not be individually modeled where standard components were used in the assembly.
 
-Designed and assembled in SolidWorks
+---
 
-Notes
-This project represents the final CAD model and assembly of the scissor lift mechanism.
+## Author
 
-Standard hardware such as bolts, nuts, and washers may not be individually modeled where standard components were used for the assembly.
+**[Your Name]**
 
-Author
-SivaSankara Dasu Koilapu
+**B.Tech Mechanical Engineering Student**  
+**IIT Ropar**
 
-B.Tech Mechanical Engineering Student
-IIT Ropar
