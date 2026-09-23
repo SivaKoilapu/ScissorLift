@@ -71,8 +71,8 @@ The mechanism provides controlled vertical motion while maintaining a compact an
 
 The repository contains:
 
-- SolidWorks Part Files (`.SLDPRT`)
-- SolidWorks Assembly Files (`.SLDASM`)
+- SolidWorks Part Files 
+- SolidWorks Assembly Files 
 - Project Documentation
 - Assembly and Model Images
 
@@ -88,7 +88,7 @@ Standard hardware such as **bolts, nuts, and washers** may not be individually m
 
 ## Author
 
-**[Your Name]**
+**SivaSankara Dasu Koilapu**
 
 **B.Tech Mechanical Engineering Student**  
 **IIT Ropar**
